@@ -2,7 +2,7 @@
 interface Person {
   name: string;
   age: number;
-  isStudent?: boolean; //This is optional property.
+  isStudent?: boolean; 
   readonly marks: number;
 }
 
